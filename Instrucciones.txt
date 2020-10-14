@@ -1,0 +1,15 @@
+Miembros del equipo:
+Carlos González del Rosal - A01566719
+Rafael Muñoz Licón - A01187727
+Yoceline Aralí Mata Ledezma - A01562116
+
+Para correr el progrma:
+Es un archivo de Python que utiliza las librerías numpy, matplotlib y math
+Math viene predefinida, pero numpy y matplotlib deben de estar instaladas en la
+computadora en el mismo directorio en el que esté este archivo cuando lo descargue.
+
+El programa puede tener pequeños errores que se deben al error que tiene verlet cuando
+delta T no tiende a 0, delta T no lo movemos mucho del que ya está porque de ser más 
+grande el programa es muy inexacto y de ser más pequeño la computadora tarda mucho en procesarlo.
+
+Muchas gracias por todo profes!!!
